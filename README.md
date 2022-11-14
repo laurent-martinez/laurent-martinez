@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/premium-vector/binary-matrix-code-computer-data-stream-digital-security-codes-gray-coding-information-abstract-background_102902-838.jpg?w=1000)
+![MasterHead](https://img.freepik.com/premium-vector/binary-matrix-code-computer-data-stream-digital-security-codes-gray-coding-information-abstract-background_102902-838.jpg?w=800)
 
 <h1 align="center">Hi 👋, I'm Laurent Martinez</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
