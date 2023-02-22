@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/premium-vector/software-development-web-coding-laptop-programming-concept-website-design-coding-remote-work-home_3482-5615.jpg?w=1000)
+![MasterHead]((https://cdn.midjourney.com/64f14874-19c5-462f-a40b-36d163fb0d82/grid_0.png))
 
 <h1 align="center">Hi 👋, I'm Laurent Martinez</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
