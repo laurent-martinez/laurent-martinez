@@ -1,5 +1,4 @@
-![MasterHead](https://cdn.midjourney.com/64f14874-19c5-462f-a40b-36d163fb0d82/grid_0.png?w=1000)
-
+![MasterHead](https://cdn.midjourney.com/1039488310155935794/1082609327736627200/profilePic.png?width=1000)
 <h1 align="center">Hi 👋, I'm Laurent Martinez</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
