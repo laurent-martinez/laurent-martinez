@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47n8886y13yehpkpla8bbb6j10witb913c1j4lsy6t&rid=giphy.gif&ct=g" />
 
-- 🌱 I’m currently learning **Typescript and Docker and React native**
+- 🌱 I’m currently learning **Typescript & Docker & React native**
 
 - 👯 I’m looking to collaborate on **React projects**
 
